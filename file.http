@@ -1,0 +1,2 @@
+POST http://localhost:8080/key/generate
+api-key: 4543646346346366
